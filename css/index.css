@@ -10,8 +10,10 @@ a {
     border-bottom: 1px solid #EEEEEE;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     color: #FFFFFF;
     background: #0f83c6;
@@ -19,7 +21,7 @@ body {
 
 header {
     padding: 20px 0;
-    border-bottom: #2f80b6;
+    border-bottom: #1f80b6;
 }
 
 .title {
